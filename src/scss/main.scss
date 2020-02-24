@@ -1,0 +1,12 @@
+$primary-color:skyblue;
+body{
+    background:$primary-color;
+    text-align: center;
+    user-select: none;
+
+    img{
+        width:600px;
+        height: auto;
+     
+    }
+}
